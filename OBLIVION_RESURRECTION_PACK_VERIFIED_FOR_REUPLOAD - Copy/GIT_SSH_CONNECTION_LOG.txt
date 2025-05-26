@@ -1,0 +1,20 @@
+OBLIVION GITHUB + SSH INTEGRATION — 2025-05-25
+
+GitHub Username: vodylan1
+Repository: Oblivion_Sniper_Terminal
+SSH Key Label: Oblivion-Terminal
+Public Key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFPJQT92DVkptFCt39Mq+gLPEvLjuZult/YnNPSVohme oblivion@terminal.ai
+
+Connection: Successful
+SSH Verified: Yes
+Push Confirmed: Yes (main branch)
+
+Terminal Commands Executed:
+- git init
+- git remote add origin git@github.com:vodylan1/Oblivion_Sniper_Terminal.git
+- git add .
+- git commit -m "Oblivion Resurrection Pack v4 initial upload"
+- git branch -M main
+- git push -u origin main
+
+This marks the official linkage between local Oblivion AI Resurrection Pack and its cloud deployment repository.
